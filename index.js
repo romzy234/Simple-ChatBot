@@ -88,7 +88,7 @@ const compareArr = (arr1, arr2)=>{
 const bot = ()=>{
     // Collect input
     const input = prompt('User :  ').toLowerCase();
-    // array to collet output
+    // array to collet an object that contain the array which contains words that appears in the users input
     const cal = [];
    
     // to check if input is empty

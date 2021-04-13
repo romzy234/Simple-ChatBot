@@ -16,8 +16,8 @@ it return the correcsporniding answer
 
 ### to start run 
 
-\$> node index 
+```\$> node index```
 
-node index 
+node index
 
 or double-click the bat file

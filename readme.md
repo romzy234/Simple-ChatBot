@@ -1,6 +1,6 @@
 ## Bot Demo
 
-using a five dimensional array 
+using a two dimensional array 
 
 it collect a use input and convert it to an array 
 
